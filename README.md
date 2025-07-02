@@ -1,2 +1,2 @@
 # SMAD2
-This is for code and descriptions of SMAD replated to paper
+This respiratory is used to share code files related to the SMAD manuscript.
